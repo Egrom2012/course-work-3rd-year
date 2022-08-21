@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApp1.autosalonDataSet">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПроизводителиRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПоставщикиRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.МодельRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПокупателиRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ЗаказыDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.АвтомобилиRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПерегонщикиRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.PersonalDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.PersonalRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.МодельRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПерегонщикиRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПоставщикиRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApp1.autosalonDataSet.АвтомобилиRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.АвтомобилиDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApp1.autosalonDataSet.ПокупателиRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПокупателиDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApp1.autosalonDataSet.МодельRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="WindowsFormsApp1.autosalonDataSet.ПроизводителиRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.АвтомобилиRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПокупателиRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПроизводителиDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.МодельDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ЗаказыRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПроизводителиRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.PersonalRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApp1.autosalonDataSet.ПоставщикиRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="WindowsFormsApp1.autosalonDataSet.ПерегонщикиRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПоставщикиDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApp1.autosalonDataSet.PersonalRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="WindowsFormsApp1.autosalonDataSet.ЗаказыRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ЗаказыRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApp1.autosalonDataSet.ПерегонщикиDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ECACAgCAAwAAEKpBRAQiQAARAAwyVRgAAQCASCEBBJA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Connector">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Connector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form1">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABABAJCACAACAMw7AEAg0HQfQAAAQAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form2">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAEAAAACCAEACAMgYAAAAAGAOAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form3">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACCAEACAEgZAAAAAGAKAAAAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form4">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACCAEACAEwYAAAAgGAKAAAAAAA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form5">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAACCAEACAMg4AAAAAGAOAAAAAAA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form6">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAACCAEACAMg4AAAAAGAOAAAAAAA=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form7">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACCAEACAEg4ACAAAHAKAAAAAAA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form8">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAACCAEACAMg4AAAAAGAOAAAAAAA=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form9">
+    <Position X="18" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAACCAEACAMg4AAAAAHAOAAAAAAA=</HashCode>
+      <FileName>Form9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormAuto_update">
+    <Position X="4" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAABAAAACAAABAQAECCAEBCIAAYAEABEGASCQEAAAA=</HashCode>
+      <FileName>HelpFormAuto-update.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormAuto">
+    <Position X="19.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAhAQAACCAEBCIAA7AAAAEHADAAEAAAA=</HashCode>
+      <FileName>HelpFormAuto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormModelupdate">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABBAAyAAABAQABCSCERCIAAYAAAAEGESAAAAAAA=</HashCode>
+      <FileName>HelpFormModel - update.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormModel">
+    <Position X="18" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABBAASAAABAQABCSCERCIAA4AAAAEHECAAAAAAA=</HashCode>
+      <FileName>HelpFormModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormPeregonshiki">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>HelpFormPeregonshiki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormPersonal">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABAQAACAAABCAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>HelpFormPersonal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormPokypatel">
+    <Position X="21.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>HelpFormPokypatel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormPostavshick">
+    <Position X="23.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCIAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>HelpFormPostavshick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormProizvoditeli">
+    <Position X="5.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>HelpFormProizvoditeli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormZakaz_update">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAAAAACIgABAQAACCBEACAAAYAAAAEHACAEEAAAA=</HashCode>
+      <FileName>HelpFormZakaz-update.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.HelpFormZakaz">
+    <Position X="21.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAgABAQAACCAEACAAA7AAAAEPADAAEAAAA=</HashCode>
+      <FileName>HelpFormZakaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Program">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Zapros1">
+    <Position X="25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAQAACCEAACAAgYAAABEGACAAAAAAA=</HashCode>
+      <FileName>Zapros1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Zapros2">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAAAQAACCAAACAAgYAAABAGACAAAAAAA=</HashCode>
+      <FileName>Zapros2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Zapros3">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAAACCAAACAAgYAAABAGACAAAAAAA=</HashCode>
+      <FileName>Zapros3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.PersonalTableAdapter">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.АвтомобилиTableAdapter">
+    <Position X="16.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.ЗаказыTableAdapter">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.МодельTableAdapter">
+    <Position X="2.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.ПерегонщикиTableAdapter">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.ПокупателиTableAdapter">
+    <Position X="25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.ПоставщикиTableAdapter">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.ПроизводителиTableAdapter">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.TableAdapterManager">
+    <Position X="9.25" Y="9.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="WindowsFormsApp1.autosalonDataSetTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="WindowsFormsApp1.autosalonDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EQEAAiAAAABQBAERAAoAMAIwEAACgAQIAIQCAAAEBAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Properties.Resources">
+    <Position X="14.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Properties.Settings">
+    <Position X="0.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

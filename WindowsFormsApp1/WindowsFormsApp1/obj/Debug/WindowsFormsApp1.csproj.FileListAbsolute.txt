@@ -1,0 +1,111 @@
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Егор\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormProizvoditeli.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormModel.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPeregonshiki.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPostavshick.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormModelupdate.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormAuto.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormAuto_update.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPokypatel.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPersonal.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormZakaz.resources
+D:\Users\Егор\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormZakaz_update.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormAuto_update.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormAuto.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormModelupdate.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormModel.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPeregonshiki.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPersonal.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPokypatel.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPostavshick.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormProizvoditeli.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormZakaz_update.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormZakaz.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros1.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros2.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros3.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormAuto_update.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormAuto.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormModelupdate.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormModel.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPeregonshiki.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPersonal.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPokypatel.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormPostavshick.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormProizvoditeli.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormZakaz_update.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HelpFormZakaz.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros3.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros2.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Zapros1.resources
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Егор\YandexDisk\юзгу\3 курс вся параша\5 семестр\Курсач за 5 семестр\Мой курсач\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
